@@ -2326,7 +2326,7 @@ No Image,Pas d'image,module,Magento_ConfigurableProduct
 Choose a different Product,Choisissez un autre produit,module,Magento_ConfigurableProduct
 Remove Product,Supprimer le produit,module,Magento_ConfigurableProduct
 Create Product Configurations,Créer des configurations de produit,module,Magento_ConfigurableProduct
-Choose Affected Attribute Set,Choisissez le gourpe d'attribut visé,module,Magento_ConfigurableProduct
+Choose Affected Attribute Set,Choisissez le gourpe d\'attribut visé,module,Magento_ConfigurableProduct
 Confirm,Confirmer,module,Magento_ConfigurableProduct
 Cancel,Annuler,module,Magento_ConfigurableProduct
 Incl. Tax,TTC,module,Magento_ConfigurableProduct
@@ -6080,7 +6080,8 @@ Logo for PDF Print-outs (200x50),Logo pour les impressions PDF (200x50),module,M
 "Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Le logo par défaut sera utilisé dans les documents PDF et HTML.<br />(jpeg, gif, png)
 Si l'image dans les PDF est déformée, essayez d'utiliser une image plus grande.",module,Magento_Sales
 Logo for HTML Print View,Logo pour l'aperçu avant impression HTML,module,Magento_Sales
-"Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Logo uniquement pour les documents HTML. Si vide, celui par défaut sera utilisé.<br />(jpeg, gif, png)",module,Magento_Sales
+"Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Logo uniquement pour les documents HTML. Si vide, celui par défaut sera utilisé.<br />(jpeg, gif, png)
+",module,Magento_Sales
 Address,Adresse,module,Magento_Sales
 Minimum Order Amount,Montant de commande minimum,module,Magento_Sales
 Enable,Activer,module,Magento_Sales
